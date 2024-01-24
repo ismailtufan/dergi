@@ -41,12 +41,12 @@ nav .menu-container{
     display: flex;
     align-items: center;
     flex-basis: 100px;
-    border-radius : 50%;
 }
 .logo img{
     width: 100%;
     min-width: 60px;
     object-fit: cover;
+    border-radius : 50%;
 }
 .menu-items{
     display: flex;
